@@ -1,0 +1,13 @@
+console.time("Your code took");
+console.log("Hello Everyone!");
+console.log(4+15);
+console.log(23);
+console.log(true);
+console.log([2,3,4,5,6]);
+console.log({sagnik : "this", marks:99});
+console.table({sagnik : "this", marks:99});
+console.warn("this is a warning");
+//console.clear();
+console.assert(566<125,'Age greater than 125 is not possible');
+console.error('This is an error');
+console.timeEnd("Your code took");
