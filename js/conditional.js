@@ -30,11 +30,15 @@ else{
     console.log("Age is"+" "+age);
 }
 
+
+
 // !== checks for type of variable and its value and not equal to
 if (age !== 23)
     console.log("different type "+age);
 else
     console.log("same type "+age);
+
+
 
 //checks if the variable is defined or not
 if(typeof vari !== 'undefined')
@@ -45,6 +49,8 @@ else
 
 //ternary oeprator
 console.log(age == 23?'age is 23':"age is not 23");
+
+
 
 //switch case
 switch (age) {
