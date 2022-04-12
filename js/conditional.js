@@ -58,11 +58,11 @@ switch (age) {
         console.log("your age is 18");
         break;
     case "28":
-            console.log("your age is 28");
-            break;
+        console.log("your age is 28");
+        break;
     case "38":
-            console.log("your age is 38");
-            break;
+        console.log("your age is 38");
+        break;
     default:
         console.log("your age is not defined");
         break;
